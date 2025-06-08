@@ -1,0 +1,11 @@
+streamlit
+streamlit-webrtc
+deepgram-sdk
+python-dotenv
+pandas
+plotly
+dateparser
+streamlit-webrtc
+speechrecognition
+av
+numpy
